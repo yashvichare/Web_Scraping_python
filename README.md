@@ -1,5 +1,5 @@
 # Web Scraping using python
-In this Project, I Web Scraped data from "2017 Intel Great Place to Run" Webiste using urllib library                                     
+In this Project, I Web Scraped data from "2017 Intel Great Place to Run" Website using urllib library                                     
 
 For WebScraping I used Beautiful Soup library to parse the html data and convert it into a .csv format                                 
 
